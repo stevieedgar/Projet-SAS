@@ -14,9 +14,9 @@ Ce projet utilise **SAS Visual Analytics** pour analyser les données d'une entr
 
 - **rapport_SAS.pdf** : Document décrivant le projet et les méthodologies utilisées.
 - **Start_SSB_V4L_DV_ML_V12.pdf** : Tutoriel pour l'utilisation de SAS Viya et de SAS Visual Analytics.
-- **PVA.pdf** : Rapport contenant l'analyse des données et des modèles.
-- **dataset.csv** : Données du modele  utilisées pour l'analyse.calcule du ROI
-
+- **PVA.pdf** : Rapport contenant la visualisation et l'analyse des données et des modèles.
+- **dataset.xlsx** : Données du modele  utilisées pour le calcule de la colone ROI et courbe.
+  
 ## Instructions
 
 1. Ouvrir le fichier **dataset.csv** dans **SAS Visual Analytics**.
